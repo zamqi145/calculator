@@ -10,7 +10,7 @@ int main() {
 
     cout<<"\n\t\t\t\t\tCALCULATOR";
 
-    cout<<"\n\t\t\tSelect Number for Operation."<<"\n"<<"\n   Addition      = 1\n   Subtraction     = 2\n    Multiplication       = 3\n   Divide        = 4\n";
+    cout<<"\n\t\t\tSelect Number for Operation."<<"\n"<<"\n\t Addition\t=\t 1 \n\t Subtraction\t=\t 2 \n\t Multiplication\t=\t 3 \n\t Divide\t\t=\t 4 \n";
 
     cin>>process;   
 
